@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\david\source\repos\ToP_4_probnaya1\ToP_4_probnaya1\main.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ToP_4_probnaya1.vcxproj -> C:\Users\david\source\repos\ToP_4_probnaya1\x64\Debug\ToP_4_probnaya1.exe
